@@ -42,9 +42,11 @@ These are the public repositories that reflect the practice. Pin them on this pr
 | Repository | What it demonstrates |
 | --- | --- |
 | [claude-assistant-config](https://github.com/dzbrody/claude-assistant-config) | Sovereign AI operations: Claude, MCP servers, Whisper transcription, and self-hosted OpenProject, ERP, and Nextcloud on AWS. |
+| [axinagroup/axerp](https://github.com/axinagroup/axerp) | AXERP, AXINA Group's ERPNext-based platform for enterprise operations. |
 | [azure-wordpress-ha](https://github.com/dzbrody/azure-wordpress-ha) | Zone-redundant WordPress on Azure with Terraform, VM scale sets, Front Door, MySQL, and shared NFS. |
-| [mail-test-clean](https://github.com/dzbrody/mail-test-clean) | Serverless email validation for contact lists: DNS, SMTP, and CSV reporting on AWS. |
 | [BrodyBooks](https://github.com/dzbrody/BrodyBooks) | *Mastering API Management with Swagger* — the published guide to enterprise API design on Azure API Management. |
+| [XGCERP/xgc_theme](https://github.com/XGCERP/xgc_theme) | OneUI theme for Frappe and ERPNext: light and dark variants, responsive, one-command install. |
+| [mail-test-clean](https://github.com/dzbrody/mail-test-clean) | Serverless email validation for contact lists: DNS, SMTP, and CSV reporting on AWS. |
 
 Supporting samples, useful and intentionally small:
 
