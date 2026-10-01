@@ -22,18 +22,29 @@
 
 ## Featured repositories
 
-These six are the public record. Pin them in this order.
+### [Axina Group](https://github.com/axinagroup)
+
+Enterprise software for finance, operations, and climate projects: ERP, AI, and distributed-ledger platforms.
+
+| Project | Summary |
+| --- | --- |
+| **[AXERP](https://github.com/axinagroup/axerp)** | Axina Group's ERP platform, built on the Frappe Framework: accounting, inventory, manufacturing, assets, and projects in one system. |
+| **[AXIBROKER](https://github.com/axinagroup)** | AI post-trade platform for boutique brokerages, built on a permissioned, tamper-evident ledger (early development). |
+| **[Carbon AI](https://github.com/axinagroup)** | REDD+ forest carbon estimation from satellite maps and machine-learning models on AWS SageMaker, with experimental Cardano tokenization. |
+| **[Carbon Onboarding](https://github.com/axinagroup)** | Frappe app for AXERP that runs government onboarding and approval workflows for carbon projects. |
+| **[Claude Assistant](https://github.com/axinagroup)** | Internal AI operations assistant built on Claude Code and MCP: briefings, task tracking, time logging, and calendar planning. |
+
+### Personal public work
 
 | Repo | What it demonstrates |
 | --- | --- |
 | **[claude-assistant-config](https://github.com/dzbrody/claude-assistant-config)** | Sovereign AI operations: Claude, MCP servers, Whisper, and self-hosted OpenProject, ERP, and Nextcloud on AWS. |
-| **[axinagroup/axerp](https://github.com/axinagroup/axerp)** | AXERP, AXINA Group's ERPNext-based platform for enterprise operations. |
 | **[azure-wordpress-ha](https://github.com/dzbrody/azure-wordpress-ha)** | Zone-redundant WordPress on Azure: Terraform, VM scale sets, Front Door, MySQL, and shared NFS. |
 | **[BrodyBooks](https://github.com/dzbrody/BrodyBooks)** | *Mastering API Management with Swagger*, the published guide to enterprise API design. |
-| **[XGCERP/xgc_theme](https://github.com/XGCERP/xgc_theme)** | OneUI theme for Frappe and ERPNext, with light and dark variants. |
+| **[XGCERP/xgc_theme](https://github.com/XGCERP/xgc_theme)** | OneUI theme for Frappe, with light and dark variants. |
 | **[mail-test-clean](https://github.com/dzbrody/mail-test-clean)** | Serverless email validation for contact lists on AWS. |
 
-Smaller public samples, not pinned:
+Smaller public samples:
 
 - [SimpleAPI](https://github.com/dzbrody/SimpleAPI) — ASP.NET Core 7, Swagger, xUnit, and Azure Pipelines.
 - [stuff_to_help](https://github.com/dzbrody/stuff_to_help) — two MongoDB shell notes for a field census and a three-collection join.
