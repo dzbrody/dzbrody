@@ -38,6 +38,7 @@ Enterprise software for finance, operations, and climate projects: ERP, AI, and 
 
 | Repo | What it demonstrates |
 | --- | --- |
+| **JobHunt** *(private repo)* | Multi-agent orchestration on Grok Bot: three coordinating agents (Scout, Tailor, Closer) that source and score executive roles, build tailored application packages, and track submissions and follow-ups, with a human approval gate before anything is sent. |
 | **[claude-assistant-config](https://github.com/dzbrody/claude-assistant-config)** | Sovereign AI operations: Claude, MCP servers, Whisper, and self-hosted OpenProject, ERP, and Nextcloud on AWS. |
 | **[azure-wordpress-ha](https://github.com/dzbrody/azure-wordpress-ha)** | Zone-redundant WordPress on Azure: Terraform, VM scale sets, Front Door, MySQL, and shared NFS. |
 | **[BrodyBooks](https://github.com/dzbrody/BrodyBooks)** | *Mastering API Management with Swagger*, the published guide to enterprise API design. |
