@@ -3,7 +3,7 @@
 
 > **Dan can be part of your team to help you design-it, sell-it, build-it, and implement-it for your client.**
 
-30+ years of technical leadership · MBA · Patents · Exits. I embed with founders, CEOs, investors, and PE boards to turn an ambiguous technical problem into a platform that ships and holds up under diligence.
+30+ years of technical leadership · Mini-MBA (Schulich) · Patents · Exits. I embed with founders, CEOs, investors, and PE boards to turn an ambiguous technical problem into a platform that ships and holds up under diligence.
 
 [Book a call](https://ctorescues.com/contact/) · [ctorescues.com](https://ctorescues.com/) · [LinkedIn](https://www.linkedin.com/in/danielbrody/) · [Facebook](https://www.facebook.com/people/CTORescues/100067231596849/)
 
@@ -34,11 +34,11 @@ Enterprise software for finance, operations, and climate projects: ERP, AI, and 
 | **[Carbon Onboarding](https://github.com/axinagroup)** | Frappe app for AXERP that runs government onboarding and approval workflows for carbon projects. |
 | **[Claude Assistant](https://github.com/axinagroup)** | Internal AI operations assistant built on Claude Code and MCP: briefings, task tracking, time logging, and calendar planning. |
 
-### Personal public work
+### Personal work
 
 | Repo | What it demonstrates |
 | --- | --- |
-| **JobHunt** *(private repo)* | Multi-agent orchestration on Grok Bot: three coordinating agents (Scout, Tailor, Closer) that source and score executive roles, build tailored application packages, and track submissions and follow-ups, with a human approval gate before anything is sent. |
+| **JobHunt** *(private)* | Multi-agent job-search automation on Grok Bot: three agents that source and score roles, tailor applications, and track follow-ups, with human approval before anything is sent. |
 | **[claude-assistant-config](https://github.com/dzbrody/claude-assistant-config)** | Sovereign AI operations: Claude, MCP servers, Whisper, and self-hosted OpenProject, ERP, and Nextcloud on AWS. |
 | **[azure-wordpress-ha](https://github.com/dzbrody/azure-wordpress-ha)** | Zone-redundant WordPress on Azure: Terraform, VM scale sets, Front Door, MySQL, and shared NFS. |
 | **[BrodyBooks](https://github.com/dzbrody/BrodyBooks)** | *Mastering API Management with Swagger*, the published guide to enterprise API design. |
