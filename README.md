@@ -39,6 +39,8 @@ Enterprise software for finance, operations, and climate projects: ERP, AI, and 
 | Repo | What it demonstrates |
 | --- | --- |
 | **JobHunt** *(private)* | Multi-agent job-search automation on Grok Bot: three agents that source and score roles, tailor applications, and track follow-ups, with human approval before anything is sent. |
+| **Higgins** *(private)* | Local-first personal AI assistant. A Python core on a self-hosted Linux server sends confidential chats to a local model (Qwen2.5 7B on llama.cpp with Vulkan, split across two 2013-era GPUs at about 17 tok/s) and everything else to Grok. Email and calendar actions need approval, and a live ops dashboard shows what it's doing. |
+| **Higgins for iOS** *(private)* | SwiftUI iPhone and iPad client: push-to-talk with on-device speech recognition, spoken replies, chat, and the ops dashboard. It reaches the assistant over a private Tailscale network, which recognises the device's Tailscale login, so no shared token is needed. Designed, built and installed on devices in a day, with Claude Code as AI pair engineer. |
 | **[claude-assistant-config](https://github.com/dzbrody/claude-assistant-config)** | Sovereign AI operations: Claude, MCP servers, Whisper, and self-hosted OpenProject, ERP, and Nextcloud on AWS. |
 | **[azure-wordpress-ha](https://github.com/dzbrody/azure-wordpress-ha)** | Zone-redundant WordPress on Azure: Terraform, VM scale sets, Front Door, MySQL, and shared NFS. |
 | **[BrodyBooks](https://github.com/dzbrody/BrodyBooks)** | *Mastering API Management with Swagger*, the published guide to enterprise API design. |
@@ -74,6 +76,8 @@ Smaller public samples:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![AI / MCP](https://img.shields.io/badge/AI_%2F_MCP-1D2D43?style=flat)
+![Swift / SwiftUI](https://img.shields.io/badge/Swift_%2F_SwiftUI-F05138?style=flat&logo=swift&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat&logo=tailscale&logoColor=white)
 
 ---
 
